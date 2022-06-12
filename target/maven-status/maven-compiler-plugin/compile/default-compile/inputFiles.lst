@@ -1,0 +1,15 @@
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\ext\modelo\PedidoDTO.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\servicios\ServicioMsproductos.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\ext\clientes\ClienteProveedor.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\api\v1_0\msproductos\MsproductosController.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\ext\modelo\ProveedorDTO.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\ext\clientes\ClientePedido.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\servicios\impl\ServicioMsproductosImpl.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\persistencia\mapper\ProductoBeanMapper.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\persistencia\modelo\ProductoBean.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\persistencia\ProductoRepository.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\api\v1_0\msproductos\dto\Producto.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\MsproductosApplication.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\persistencia\dao\ProductoRepositoryImpl.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\api\v1_0\msproductos\conversor\ProductoConversor.java
+c:\bl-gitlab\ProyectoBL\msproductos\src\main\java\com\bl\bootcamp\msproductos\config\filter\UsernameFilter.java

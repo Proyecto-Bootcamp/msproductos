@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsproductosApplication<msproductos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bl.bootcamp.msproductos.MsproductosApplication",
+            "projectName": "msproductos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
